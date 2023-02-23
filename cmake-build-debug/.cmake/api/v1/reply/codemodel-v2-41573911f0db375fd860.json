@@ -1,0 +1,213 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "access",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "access::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-access-Debug-b8b0388abc7f6453f1ad.json",
+					"name" : "access",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "c++11::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-c++11-Debug-80dff5ddb20e82b78aa4.json",
+					"name" : "c++11",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "composite::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-composite-Debug-3f5325f8c5d561f83fdf.json",
+					"name" : "composite",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "container::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-container-Debug-5407202e301935171810.json",
+					"name" : "container",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "custom::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-custom-Debug-a753e8af8a12415be0d7.json",
+					"name" : "custom",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "embedded::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-embedded-Debug-12d7e83d055f14ab17cf.json",
+					"name" : "embedded",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "hello::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hello-Debug-71fe9a8434985ecce71f.json",
+					"name" : "hello",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "inverse::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-inverse-Debug-48f9b83e304922fde488.json",
+					"name" : "inverse",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mapping::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mapping-Debug-ea18cd5f5f95ef159311.json",
+					"name" : "mapping",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "optimistic::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-optimistic-Debug-9f9ef0f953ecd4f4928a.json",
+					"name" : "optimistic",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pimpl::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pimpl-Debug-d56141577b2e52d948de.json",
+					"name" : "pimpl",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "polymorphism::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-polymorphism-Debug-56b21fcfb0dabb24b4c3.json",
+					"name" : "polymorphism",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "prepared::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-prepared-Debug-28bb641ffb9900ec9473.json",
+					"name" : "prepared",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "query::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-query-Debug-0d1703a53c6c39c766aa.json",
+					"name" : "query",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "relationship::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-relationship-Debug-ac32378e9094c39faba7.json",
+					"name" : "relationship",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "reuse::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-reuse-Debug-952ed34f0bd9477251e5.json",
+					"name" : "reuse",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "section::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-section-Debug-ff43c16c61602f166ac7.json",
+					"name" : "section",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "view::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-view-Debug-cc282278230d4ef3f471.json",
+					"name" : "view",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/quincy/Desktop/odb-example/cmake-build-debug",
+		"source" : "/Users/quincy/Desktop/odb-example"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
